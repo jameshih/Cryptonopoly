@@ -86,5 +86,15 @@ Question cards are blockchain Trivia questions that players will have to draw an
 <br><br>
 The file below contains the full list of questions and answers
 
-<br>
 <a href="https://github.com/jimmyadg/Cryptonopoly/blob/master/questions/blockchain_trivia_questions.txt">blockchain_trivia_questions.txt</a>
+
+<h3>User Dashboard</h3>
+
+<br><br>
+User dashboard is a player dashboard that let players manage their cryptocurrencies. each user dashboard contains three sections, Exchange, Personal Wallet, and Lock. Exchange will store cryptocurrencies that the player purchases with dollar, each round the player can move cryptocurrencies from Exchange into Personal or vice versa. Both Exchange and Personal Wallet can be hacked or frozen, when the event happens the cryptocurrencies in the section will be moved to Lock, which the player won't be able to use the cryptocurrencies in Lock before unlocking them.
+
+<h3>Todo List</h3>
+- [ ] Make player tokens / figures
+- [ ] Make a instruction guide / booklet
+- [ ] Design a box to store all items of the board game
+- [ ] Iterate on graphics 
