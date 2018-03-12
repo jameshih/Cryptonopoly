@@ -14,13 +14,13 @@
 <p>The game board of Cryptonopoly is similar to Monopoly's game board. Players start on Go and take turns to roll dices and move around the board. Each player has to perform action according to the spot that he or she lands on.</p>
 
 <h3>Cryptocurrencies</h3>
-<h4>Bitcoin</h4>
+<h3>Bitcoin</h4>
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/bitcoin.png" width="70%">
 
-<h4>Ethereum</h4>
+<h3>Ethereum</h4>
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/ethereum.png" width="70%">
 
-<h4>Token</h4>
+<h3>Token</h4>
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/token.png" width="70%">
 <br><br>
 
