@@ -1,4 +1,4 @@
-<p align:"center">
+
 <h1>Cryptonopoly</h1>
 <h4>Multiplayer Cryptocurrency Game<h4>
 
@@ -15,13 +15,13 @@
 
 <h3>Cryptocurrencies</h3>
 <h4>Bitcoin</h4>
-<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/bitcoin.png" width:"300">
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/bitcoin.png" width="50%">
 
 <h4>Ethereum</h4>
-<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/ethereum.png" width:"300">
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/ethereum.png" width="50%">
 
 <h4>Token</h4>
-<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/token.png" width:"300">
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/token.png" width="50%">
 <br><br>
 
 Cryptonopoly has three different cryptocurrencies, Bitcoin, Ethereum, and a fictional cryptocurrency called Token. Players will be buying and trading Bitcoin and Ethereum, which some of the items in the game are valued based on the price of these two coins. Token is a coin that players can mine in the game. One will receive Tokens each around based on how many miners and miner lifetimes he or she has.
@@ -34,5 +34,3 @@ Cryptonopoly has three different cryptocurrencies, Bitcoin, Ethereum, and a fict
 <h3>Chance Card</h3>
 
 <h3>Question Card</h3>
-
-</p>
