@@ -10,7 +10,7 @@
 <h2>Components</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/color_code.png" width="70%">
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/color_code.png" width="50%">
 </p>
 
 <h3>Board</h3>
