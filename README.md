@@ -92,7 +92,7 @@ The file below contains the full list of questions and answers
 <h3>User Dashboard</h3>
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/user_dashboard.png" width="100%" >
 <br><br>
-User dashboard is a player dashboard that let players manage their cryptocurrencies. each user dashboard contains three sections, Exchange, Personal Wallet, and Lock. Exchange will store cryptocurrencies that the player purchases with dollar, each round the player can move cryptocurrencies from Exchange into Personal or vice versa. Both Exchange and Personal Wallet can be hacked or frozen, when the event happens the cryptocurrencies in the section will be moved to Lock, which the player won't be able to use the cryptocurrencies in Lock before unlocking them.
+User dashboard is a player dashboard that let players manage their cryptocurrencies. Each user dashboard contains three sections, Exchange, Personal Wallet, and Lock. Exchange will store cryptocurrencies that the player purchases with dollar, each round the player can move cryptocurrencies from Exchange into Personal or vice versa. Both Exchange and Personal Wallet can be hacked or frozen, when the event happens the cryptocurrencies in the section will be moved to Lock, which the player won't be able to use the cryptocurrencies in Lock before unlocking them.
 
 ### Todo List
 
