@@ -12,7 +12,9 @@ margin: 0 auto;">
 <h2 style="text-align:center;">Components</h2>
 
 <h3>Board</h3>
-
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/board.png"/>
+<br><br>
+<p>The game board of Cryptonopoly is similar to Monopoly's game board. Players start on Go and roll dices to take turn to move around the board. Each player has to perform action according to the spot that he or she lands on.</p>
 
 <h3>Cryptocurrencies</h3>
 
