@@ -10,6 +10,7 @@
 <h2>Components</h2>
 
 <p align="center">
+<br><br>
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/color_code.png" width="50%">
 </p>
 
