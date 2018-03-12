@@ -95,6 +95,7 @@ User dashboard is a player dashboard that let players manage their cryptocurrenc
 
 ### Todo List
 
+- [x] Finish printing each components
 - [ ] Make player tokens / figures
 - [ ] Make a instruction guide / booklet
 - [ ] Design a box to store all items of the board game
