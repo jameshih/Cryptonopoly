@@ -19,13 +19,13 @@
 <br><br>
 
 <h3>Cryptocurrencies</h3>
-<h3>Bitcoin</h4>
+<h3>Bitcoin - Front | Back</h3>
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/bitcoin.png" width="70%">
 
-<h3>Ethereum</h4>
+<h3>Ethereum - Front | Back</h3>
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/ethereum.png" width="70%">
 
-<h3>Token</h4>
+<h3>Token - Front | Back</h3>
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/token.png" width="70%">
 <br><br>
 
