@@ -76,5 +76,15 @@ One Live = 25 Tokens
 Chance cards in Cryptonopoly are similar to the chance cards in Monopoly, which are a deck of cards that contain both positive and negative events. Player will have to draw one card from the deck each time landing on chance on the board. In Cryptonopoly, chance cards has two special cards, one called Market Bull and one called Market Bear. Both cards will influence the entire market prices of cryptocurrencies, which will influence other players cryptocurrencies' values.
 
 <h3>Question Card</h3>
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/questions.png" width="50%" >
+<br><br>
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/questions_all.png" width="100%" >
 <br><br>
+
+Question cards are blockchain Trivia questions that players will have to draw and answer correctly to purchase or reduce payment on dApps. The difficulties of the questions are evenly spread out throughout the question set and there are only multiple choices and true or false questions in the deck so it is easier for players guess the answers.
+
+<br><br>
+The file below contains the full list of questions and answers
+
+<br>
+<a href="https://github.com/jimmyadg/Cryptonopoly/blob/master/questions/blockchain_trivia_questions.txt">blockchain_trivia_questions.txt</a>
