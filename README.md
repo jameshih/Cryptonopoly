@@ -13,6 +13,13 @@
 <br><br>
 <p>The game board of Cryptonopoly is similar to Monopoly's game board. Players start on Go and take turns to roll dices and move around the board. Each player has to perform action according to the spot that he or she lands on.</p>
 
+<h3>Fiat Currency (Dollar)</h3>
+<h3>Front</h3>
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/fiat_front.png" width="50%">
+<h3>back</h3>
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/fiat_back.png" width="50%">
+<br><br>
+
 <h3>Cryptocurrencies</h3>
 <h3>Bitcoin</h4>
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/bitcoin.png" width="70%">
@@ -42,6 +49,16 @@ dApp cards are the property cards in Cryptonopoly, similar to the housing proper
 
 <h3>Miner</h3>
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/miner.png" width="50%" >
+<br><br>
+A Miner is a mining machine that mines Token in Cryptonopoly, which players can purchase at the beginning of the game or each time after passing Go as the last move. Each miner costs 200 Dollars and each of them has three lives, each time the player passes Go, the player has to pay 50 dollars electricity fee for each miner and the miners will all decrease by one life. If a miner runs out of life it is useless. Players can receive Token rewards based on how may miner lives each of his or her miners have.
+<br><br>
+Here is a simple form to calculate the Token rewards based on miner lives:
+<br><br>
+Three Lives = 100 Tokens
+<br>
+Two Lives = 50 Tokens
+<br>
+One Live = 25 Tokens
 
 
 <h3>Chance Card</h3>
