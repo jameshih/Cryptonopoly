@@ -65,7 +65,7 @@ Three Lives = 100 Tokens
 <br>
 Two Lives = 50 Tokens
 <br>
-One Live = 25 Tokens
+One Life = 25 Tokens
 
 
 <h3>Chance Card</h3>
@@ -110,7 +110,7 @@ User dashboard is a player dashboard that let players manage their cryptocurrenc
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/jpg/coins.jpg" width="70%" >
 
 
-<h3>Miner with One Life</h3> 
+<h3>Miner with One Life</h3>
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/jpg/miner.jpg" width="70%" >
 
 
