@@ -68,5 +68,13 @@ One Live = 25 Tokens
 
 
 <h3>Chance Card</h3>
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/chance.png" width="50%" >
+<br><br>
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/chance_all.png" width="70%" >
+
+<br><br>
+Chance cards in Cryptonopoly are similar to the chance cards in Monopoly, which are a deck of cards that contain both positive and negative events. Player will have to draw one card from the deck each time landing on chance on the board. In Cryptonopoly, chance cards has two special cards, one called Market Bull and one called Market Bear. Both cards will influence the entire market prices of cryptocurrencies, which will influence other players cryptocurrencies' values.
 
 <h3>Question Card</h3>
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/questions_all.png" width="100%" >
+<br><br>
