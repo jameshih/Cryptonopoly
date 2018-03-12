@@ -18,16 +18,16 @@ margin: 0 auto;">
 
 <h3>Cryptocurrencies</h3>
 <h4>Bitcoin</h4>
-<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/bitcoin.png"/>
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/bitcoin.png" style="width:50%;"/>
 
 <h4>Ethereum</h4>
-<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/ethereum.png"/>
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/ethereum.png" style="width:50%;"/>
 
 <h4>Token</h4>
-<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/token.png"/>
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/token.png" style="width:50%;"/>
 <br><br>
 
-Cryptonopoly has three different cryptocurrencies, Bitcoin, Ethereum, and a fictional cryptocurrency called Token. Players will be buying and trading Bitcoin and Ethereum, which some of the items in the game are valued based on the price of these two coins. Token is a coin that players can mine in the game. One will receive Tokens each around based on how many miners and miner lifetimes he or she has. 
+Cryptonopoly has three different cryptocurrencies, Bitcoin, Ethereum, and a fictional cryptocurrency called Token. Players will be buying and trading Bitcoin and Ethereum, which some of the items in the game are valued based on the price of these two coins. Token is a coin that players can mine in the game. One will receive Tokens each around based on how many miners and miner lifetimes he or she has.
 
 
 <h3>dApp</h3>
