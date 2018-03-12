@@ -18,6 +18,8 @@
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/fiat.png" width="70%">
 <br><br>
 
+Fiat currency, Dollar for short, is the main unit of value in Cryptonopoly. Dollar are needed to purchase cryptocurrencies, miners and paying for some bills in the game.   
+
 <h3>Cryptocurrencies</h3>
 <h3>Bitcoin - Front | Back</h3>
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/bitcoin.png" width="70%">
@@ -29,7 +31,16 @@
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/token.png" width="70%">
 <br><br>
 
-Cryptonopoly has three different cryptocurrencies, Bitcoin, Ethereum, and a fictional cryptocurrency called Token. Players will be buying and trading Bitcoin and Ethereum, which some of the items in the game are valued based on the price of these two coins. Token is a coin that players can mine in the game. One will receive Tokens each around based on how many miners and miner lifetimes he or she has.
+Cryptonopoly has three different cryptocurrencies, Bitcoin, Ethereum, and a fictional cryptocurrency called Token. Players will be buying and trading Bitcoin and Ethereum, which some of the items in the game are valued based on the price of these two coins. Token is a coin that players can mine in the game. One will receive Tokens each around based on how many miners and miner lifetimes he or she has. Each cryptocurrency has a Dollar value and value will start from the initial values and change throughout the game.
+<br><br>
+Initial Values to Dollar:
+<br><br>
+One Bitcoin = 1000 dollars
+<br>
+One Ethereum = 100 dollars
+<br>
+One Token = 20 dollars
+
 
 
 <h3>dApp</h3>
