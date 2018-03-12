@@ -15,9 +15,9 @@
 
 <h3>Fiat Currency (Dollar)</h3>
 <h3>Front</h3>
-<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/fiat_front.png" width="50%">
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/fiat_front.png" width="20%">
 <h3>back</h3>
-<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/fiat_back.png" width="50%">
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/fiat_back.png" width="20%">
 <br><br>
 
 <h3>Cryptocurrencies</h3>
