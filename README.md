@@ -18,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/fiat.png" width="70%">
 <br><br>
 
-Fiat currency, Dollar for short, is the main unit of value in Cryptonopoly. Dollar are needed to purchase cryptocurrencies, miners and paying for some bills in the game.   
+Fiat currency, Dollar for short, is the main unit of value in Cryptonopoly. Dollar are needed to purchase cryptocurrencies, miners and paying for some bills in the game. The total asset of a player will be valued in dollars.  
 
 <h3>Cryptocurrencies</h3>
 <h3>Bitcoin - Front | Back</h3>
