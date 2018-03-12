@@ -34,10 +34,7 @@ Cryptonopoly has three different cryptocurrencies, Bitcoin, Ethereum, and a fict
 <h3>dApp</h3>
 
 <h3>Front</h3>
-<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/dapp_cards.png" width="50%" >
-
-<h3>back</h3>
-<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/dapp_back.png" width="50%">
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/dapps.png" width="90%" >
 
 <br><br>
 dApp cards are the property cards in Cryptonopoly, similar to the housing property card in Monopoly. dApp cards are valued based on Ethereum's price, which players can buy with Ethereum when landed on an unclaimed dApp. Player will have to draw two question cards and answer correctly to one of the question before being granted to purchase the dApp. After purchasing a dApp, player can upgrade when landing on the dApp again. Player will also have to draw two question cards and answer correctly to one before being granted to upgrade the dApp. Each dApp can be upgraded two times only. Others will have to pay Ethereum when landing on someone else's dApp. If the dApp is level two or above, players can draw one question card and answer correctly to only pay the base value of the dApp. The concept of dApp is based on the dApps, decentralized Applications, on the Ethereum network that blockchain developers' develop in the real world.
