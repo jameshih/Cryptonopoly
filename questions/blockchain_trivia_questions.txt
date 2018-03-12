@@ -1,0 +1,285 @@
+1 - what does P2P stand for?
+B
+a) Password to Password
+b) Peer to Peer
+c) Product to Product
+d) Private Key to Public Key
+
+
+2 - What is a node?
+C
+a) A type of cryptocurrency
+b) A blockchain
+c) A computer on a blockchain Network
+d) An exchange
+
+3 - Who created Bitcoin?
+A
+a) Satoshi Nakamoto
+b) Samsung
+c) John Mcafee
+d) China
+
+4 - Where do you store your cryptocurrency?
+C
+a) Bank Account
+b) Floppy Disk
+c) Wallet
+d) In your phone
+
+5 - How Fast is a Litecoin transaction time?
+B
+a) 15 seconds
+b) 1.5 minutes
+c) 2.5 minutes
+d) 10 minutes
+
+6 - What is a miner?
+D
+a) A type of blockchain
+b) An algorithm that predicts that next part of the chain
+c) A person doing calculations to verify a transaction
+d) Computers that validate and process blockchain transactions
+
+7 - Who offers the PrivateSend function?
+A
+a) Dash
+b) Ethereum
+c) Bitcoin
+d) Monero
+
+8 - Where can you buy cryptocurrency?
+D
+a) A private transaction
+b) An exchange
+c) A bitcoin ATM
+d) All of the above
+
+9 - What was the first known purchase with bitcoin?
+C
+a) Shawarma
+b) More Bitcoin
+c) Pizza
+d) Taco
+
+10 - What is a blockchain?
+A
+a) A distributed ledger on a peer to peer network
+b) A type of cryptocurrency
+c) An exchange
+d) A centralized ledger
+
+11 - When did bitcoin's creator publish a whitepaper introducing the digital currency?
+B
+a) 2007
+b) 2008
+c) 2009
+d) 2010
+
+12 - What is the maximum number of bitcoins that can be created?
+B
+a) 16 millions
+b) 21 millions
+c) 100 millions
+d) There is no maximum
+
+13 - Which of these US states introduced the BitLicense regulation for cryptocurrency companies?
+A
+a) New York
+b) California
+c) Texas
+d) Washington
+
+14 - Which of the following is a now-defunct bitcoin exchange?
+C
+a) Bit Box
+b) Mt Fox
+c) Mt Gox
+d) Ft Nox
+
+15 - What is the process of creating new bitcoins popularly known as?
+D
+a) Finding
+b) Panning
+c) Sourcing
+d) Mining
+
+16 - Which site run by Ross Ulbricht was closed by the FBI for letting people buy drugs with bitcoin?
+A
+a) Silk Road
+b) Lace Place
+c) Silk Street
+d) Dark Alley
+
+17 - Which one of these retail giants started accepting payments in bitcoin in January 2014?
+D
+a) eBay
+b) Amazon
+c) Walmart
+d) Overstock.com
+
+18 - True or False: Blockchain is the same as Bitcoin
+False
+
+19 - When a record is on a blockchain, who can access it?
+A
+a) Multiple people simultaneously
+b) One person at a time
+c) Only the people involved in the transaction
+d) No one
+
+20 - Once records are submitted on a blockchain, can they be altered?
+C
+a) Yes - the parties can go back in and alter them at any time
+b) Yes - but only within a certain time frame
+c) No - they cannot be altered
+d) Yes - anyone can alter the record
+
+21 - True or False: It is possible to program a blockchain to record transactions automatically.
+True
+
+22 - Are blockchain fully public?
+C
+a) Yes
+b) No
+c) It depends
+
+23 - What is a dApp?
+D
+a) A type of Cryptocurrency
+b) A condiment
+c) A type of blockchain
+d) A decentralized application
+
+24 - What is the term for when a blockchain splits?
+A
+a) A fork
+b) A merger
+c) A sidechain
+d) A division
+
+25 - What is the purpose of a nonce?
+C
+a) Follows nouns
+b) A hash function
+c) Prevents double spending
+d) Sends information to the blockchain network
+
+26 - What is cold storage?
+C
+a) A place to hang your coat
+b) A private key connected to the Internet
+c) A Private key not connected to the internet
+d) A desktop wallet
+
+27 - What incentivizes the miners to give correct validation of transactions?
+B
+a) A nonce
+b) A block reward
+c) Thumbs up from the community
+d) More memory
+
+28 - What is a genesis block?
+A
+a) The first block of a blockchain
+b) A famous block that hardcoded a hash of the Book of Genesis onto the blockchain
+c) The first block after each block halving
+d) The 2nd transaction of a blockchain
+
+29 - What is a private key?
+C
+a) A key on your key chain
+b) A key given to the public
+c) A key NOT to be given to the public
+d) A key that opens a secret door
+
+30 - What powers the Ethereum Virtual Machines?
+A
+a) Gas
+b) Ether
+c) Bitcoin
+d) Block Rewards
+
+31 - Asymmetric encryption uses:
+C
+a) Public keys only
+b) Private keys only
+c) Public and Private keys
+d) Proof of Stake
+
+32 - What is Proof of Stake?
+D
+a) Acertificate needed to use the blockchain
+b) A password needed to access an exchange
+c) How private keys are made
+d) A transaction and block verification consensus protocol
+
+33 - What is UTXO?
+C
+a) United Transaction Office
+b) United Texan Xerox Organization
+c) Unspent Transaction Output
+d) Union of Texas Operations
+
+34 - Who invented Merkle Trees?
+A
+a) Ralph Merkle
+b) Ralph Wiggum
+c) Nick Szabo
+d) Vitalik Buterin
+
+35 - What is a hash function?
+C
+a) A fork
+b) UTXO
+c) Takes an input of any length and returns a fixed-length string of numbers and letters
+d) Gas
+
+36 - What does IPFS stand for?
+A
+a) Interplanetary Filing System
+b) Inter Filing System
+c) Internet Play Store
+d) Internet Platform For Storage
+
+37 - What is a Dash Masternode?
+C
+a) Two nodes sharing resources
+b) A single node that runs the whole network
+c) A node that provides additional supervisory network services
+d) Master of all Dash nodes
+
+38 - What characteristic makes blockchain tamper-proof?
+B
+a) VPN
+b) Immutability
+c) Cryptocurrency
+d) Servers
+
+39 - What is the name of the research paper that brought Bitcoin to the world?
+B
+a) Black Paper
+b) White Paper
+c) Yellow Paper
+d) Green Paper
+
+40 - Bitcoin uses UTXO, Ethereum uses
+C
+a) Double spend
+b) UTXO
+c) Account Balance
+d) Ether
+
+41 - What are sidechains?
+D
+a) Another term for a hash function
+b) Smart Contracts that have forked off the main blockchain
+c) A parallel network running adjacent to the main blockchain network for additional security
+d) Any mechanism that allows tokens from one blockchain to be securely used within a completely separate blockchain
+
+42 - What is a LiteClient?
+A
+a) Allows you to interact with the blockchain without downloading the whole blockchain
+b) A type of cryptocurrency
+c) A platform to develop dApps
+d) A server
