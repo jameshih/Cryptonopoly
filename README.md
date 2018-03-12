@@ -14,10 +14,7 @@
 <p>The game board of Cryptonopoly is similar to Monopoly's game board. Players start on Go and take turns to roll dices and move around the board. Each player has to perform action according to the spot that he or she lands on.</p>
 
 <h3>Fiat Currency (Dollar)</h3>
-<h3>Front</h3>
-<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/fiat_front.png" width="40%">
-<h3>back</h3>
-<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/fiat_back.png" width="40%">
+<img src="https://github.com/jimmyadg/Cryptonopoly/blob/master/photos/digital/fiat.png" width="40%">
 <br><br>
 
 <h3>Cryptocurrencies</h3>
