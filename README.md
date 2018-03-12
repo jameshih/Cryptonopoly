@@ -9,6 +9,9 @@
 
 <h2>Components</h2>
 
+<h3>Color Code</h3>
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/color_code.png" width="70%" align="center">
+
 <h3>Board</h3>
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/board.png"/>
 <br><br>
