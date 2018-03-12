@@ -14,6 +14,8 @@
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/color_code.png" width="50%">
 </p>
 
+<br><br>
+
 <h3>Board</h3>
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/board.png"/>
 <br><br>
