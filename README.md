@@ -18,6 +18,7 @@
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/board.png"/>
 <br><br>
 <p>The game board of Cryptonopoly is similar to Monopoly's game board. Players start on Go, take turns to roll dices, and move around the board. Each player has to perform action according to the spot that he or she lands on.</p>
+<br><br>
 
 <h3>Fiat Currency (Dollar)</h3>
 
@@ -29,6 +30,7 @@
 
 Fiat currency, Dollar for short, is the main unit of value in Cryptonopoly. Dollars are needed to purchase cryptocurrencies, miners, and paying for some bills in the game. The total asset of a player will be valued in dollars.  
 
+<br><br>
 
 <h3>Cryptocurrencies</h3>
 <h3 align="center">Bitcoin - Front | Back</h3>
@@ -56,7 +58,7 @@ One Ethereum = 100 dollars
 <br>
 One Token = 20 dollars
 
-
+<br><br>
 
 <h3>dApp</h3>
 
@@ -68,6 +70,8 @@ One Token = 20 dollars
 dApp cards are the property cards in Cryptonopoly, similar to the housing property card in Monopoly. dApp cards are valued based on Ethereum's price, which players can buy with Ethereum when landed on an unclaimed dApp. Player will have to draw two question cards and answer correctly to one of the question before being granted to purchase the dApp. After purchasing a dApp, player can upgrade when landing on the dApp again. Player will also have to draw two question cards and answer correctly to one before being granted to upgrade the dApp. Each dApp can be upgraded two times only. Others will have to pay Ethereum when landing on someone else's dApp. If the dApp is level two or above, players can draw one question card and answer correctly to only pay the base value of the dApp. The concept of dApp is based on the dApps, decentralized Applications, on the Ethereum network that blockchain developers' develop in the real world.
 <br><br>
  Please visit <a href="https://blockgeeks.com/guides/dapps/">here</a> for more information on dApp in the real world.
+
+ <br><br>
 
 <h3>Miner</h3>
 <p align="center">
@@ -84,6 +88,7 @@ Two Lives = 50 Tokens
 <br>
 One Life = 25 Tokens
 
+<br><br>
 
 <h3>Chance Card</h3>
 <p align="center">
@@ -93,6 +98,8 @@ One Life = 25 Tokens
 </p>
 <br><br>
 Chance cards in Cryptonopoly are similar to the chance cards in Monopoly, which are a deck of cards that contains both positive and negative events. Player will have to draw one card from the deck each time landing on chance column on the board. In Cryptonopoly, chance cards has two special cards, one called Market Bull and one called Market Bear. Both cards will influence the entire market prices of cryptocurrencies, which will influence other players' cryptocurrency values. There are a total of 18 chance cards, and I will be adding more in the future if I have time.
+
+<br><br>
 
 <h3>Question Card</h3>
 <p align="center">
@@ -109,6 +116,8 @@ The file below contains the full list of questions and answers
 
 <a href="https://github.com/jimmyadg/Cryptonopoly/blob/master/questions/blockchain_trivia_questions.txt">blockchain_trivia_questions.txt</a>
 
+<br><br>
+
 <h3>User Dashboard</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/user_dashboard.png" width="100%" >
@@ -116,7 +125,8 @@ The file below contains the full list of questions and answers
 <br><br>
 User dashboard is a player dashboard that lets players manage their cryptocurrencies. Each Player will get an user dashboard and each user dashboard contains three sections, Exchange, Personal Wallet, and Lock. Exchange will store cryptocurrencies that the player purchases with dollar, each round the player can move cryptocurrencies from Exchange into Personal wallet or vice versa. Both Exchange and Personal Wallet can be hacked or frozen, when that event happens the cryptocurrencies in the section will be moved to Lock, which the player won't be able to use the cryptocurrencies in Lock before unlocking them.
 
-<h3>Printed Prototype</h3>
+
+<h2>Printed Prototype</h2>
 <h3 align="center">Board Setup</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/jpg/board.jpg" width="70%" >
