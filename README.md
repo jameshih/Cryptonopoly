@@ -72,7 +72,7 @@ One Ethereum = 100 dollars
 <br>
 One Token = 20 dollars
 <br><br>
-Value of each Cryptocurrency to Others:
+Value of each Cryptocurrency to Others (Ratio will not change throughout the game):
 <br><br>
 One Bitcoin = Ten Ethereums
 <br>
