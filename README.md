@@ -2,6 +2,10 @@
 <h1>Cryptonopoly</h1>
 <h4>Multiplayer Cryptocurrency Game<h4>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/jpg/cryptonopoly.jpg" width="70%" >
+</p>
+
 
 <h2>Abstract</h2>
 
@@ -180,6 +184,16 @@ User dashboard is a player dashboard that lets players manage their cryptocurren
 <h3 align="center">Miner Machines with Miner Lives</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/jpg/miner.jpg" width="70%" >
+</p>
+
+<h3 align="center">Chance Card</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/jpg/chance.jpg" width="70%" >
+</p>
+
+<h3 align="center">Question Card</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/jpg/question.jpg" width="70%" >
 </p>
 
 
