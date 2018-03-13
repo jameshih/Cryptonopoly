@@ -270,16 +270,4 @@ b) UTXO
 c) Account Balance
 d) Ether
 
-41 - What are sidechains?
-D
-a) Another term for a hash function
-b) Smart Contracts that have forked off the main blockchain
-c) A parallel network running adjacent to the main blockchain network for additional security
-d) Any mechanism that allows tokens from one blockchain to be securely used within a completely separate blockchain
 
-42 - What is a LiteClient?
-A
-a) Allows you to interact with the blockchain without downloading the whole blockchain
-b) A type of cryptocurrency
-c) A platform to develop dApps
-d) A server
