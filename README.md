@@ -3,7 +3,7 @@
 <h4>Multiplayer Cryptocurrency Game<h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/jpg/cryptonopoly.jpg" width="70%" >
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/jpg/banner.jpg" width="70%" >
 </p>
 
 
