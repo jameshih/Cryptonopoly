@@ -140,7 +140,7 @@ Question cards are blockchain Trivia questions that players will have to draw an
 <br><br>
 The file below contains the full list of questions and answers
 
-<a href="https://github.com/jimmyadg/Cryptonopoly/blob/master/questions/blockchain_trivia_questions.txt">blockchain_trivia_questions.txt</a>
+<a href="https://github.com/jimmyadg/Cryptonopoly/blob/master/questions/blockchain_trivia_questions.txt">Blockchain Trivia Questions</a>
 
 <a href="https://github.com/jimmyadg/Cryptonopoly/blob/master/questions/answer_key.txt">Answer Key</a>
 
