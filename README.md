@@ -145,13 +145,18 @@ The file below contains the full list of questions and answers
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/user_dashboard.png" width="100%" >
 </p>
 <br><br>
-User dashboard is a player dashboard that lets players manage their cryptocurrencies. Each Player will get an user dashboard and each user dashboard contains three sections, Exchange, Personal Wallet, and Lock. Exchange will store cryptocurrencies that the player purchases with dollar, each round the player can move cryptocurrencies from Exchange into Personal wallet or vice versa. Both Exchange and Personal Wallet can be hacked or frozen, when that event happens the cryptocurrencies in the section will be moved to Lock, which the player won't be able to use the cryptocurrencies in Lock before unlocking them. Every round's token rewards from mining machine go straight to Personal Wallet, players can decide to accept Ethereum payment for passing dApps and other payments to either Personal Wallet or Exchange. 
+User dashboard is a player dashboard that lets players manage their cryptocurrencies. Each Player will get an user dashboard and each user dashboard contains three sections, Exchange, Personal Wallet, and Lock. Exchange will store cryptocurrencies that the player purchases with dollar, each round the player can move cryptocurrencies from Exchange into Personal wallet or vice versa. Both Exchange and Personal Wallet can be hacked or frozen, when that event happens the cryptocurrencies in the section will be moved to Lock, which the player won't be able to use the cryptocurrencies in Lock before unlocking them. Every round's token rewards from mining machine go straight to Personal Wallet, players can decide to accept Ethereum payment for passing dApps and other payments to either Personal Wallet or Exchange.
 
 
 <h2>Printed Prototype</h2>
 <h3 align="center">Board Setup</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/jpg/board.jpg" width="70%" >
+</p>
+
+<h3 align="center">User Dashboard with coins</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/jpg/userdash.jpg" width="70%" >
 </p>
 
 <h3 align="center">Fiat Currency</h3>
@@ -161,6 +166,9 @@ User dashboard is a player dashboard that lets players manage their cryptocurren
 
 <h3 align="center">dApp Cards</h3>
 <p align="center">
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/jpg/dapp_deck.jpg" width="70%" >
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/jpg/dApp.jpg" width="70%" >
 </p>
 
@@ -169,7 +177,7 @@ User dashboard is a player dashboard that lets players manage their cryptocurren
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/jpg/coins.jpg" width="70%" >
 </p>
 
-<h3 align="center">Miner with One Life</h3>
+<h3 align="center">Miner Machines with Miner Lives</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/jpg/miner.jpg" width="70%" >
 </p>
