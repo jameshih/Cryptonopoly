@@ -75,7 +75,9 @@ One Token = 20 dollars
 Value of each Cryptocurrency to Others:
 <br>
 One Bitcoin = Ten Ethereums
+<br>
 One Ethereum = Five Tokens
+<br>
 One Bitcoin = Fifty Tokens
 
 <br><br>
