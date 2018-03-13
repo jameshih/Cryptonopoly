@@ -1,6 +1,6 @@
 
-<h1>Cryptonopoly</h1>
-<h4>Multiplayer Cryptocurrency Game<h4>
+<h1 align="center">Cryptonopoly</h1>
+<h4 align="center">Multiplayer Cryptocurrency Game<h4>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/jpg/banner.jpg" width="70%" >
