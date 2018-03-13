@@ -142,6 +142,9 @@ The file below contains the full list of questions and answers
 
 <a href="https://github.com/jimmyadg/Cryptonopoly/blob/master/questions/blockchain_trivia_questions.txt">blockchain_trivia_questions.txt</a>
 
+<br>
+<a href="https://github.com/jimmyadg/Cryptonopoly/blob/master/questions/answer_key.txt">Answer Key</a>
+
 <br><br>
 
 <h3>User Dashboard</h3>
