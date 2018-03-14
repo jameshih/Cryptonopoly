@@ -9,7 +9,7 @@
 
 <h2>Abstract</h2>
 
-<p>Cryptonopoly is a four players board game based on the theme of cryptocurrency. The concept of Cryptonopoly is inspired by the famous board game, Monopoly, which I borrowed a lot of concepts and game rules to create this game. My intention of creating Cryptonopoly is to provide an easy and fun way for the general public to feel and learn how is it like to participant in the current state of the crypto-economy without putting real money into buying cryptocurrencies as the current crypto-economy is quite complicated and has high volatility. </p>
+<p>Cryptonopoly is a four players board game based on the theme of cryptocurrency. My intention of creating Cryptonopoly is to provide an easy and fun way for the general public to feel and learn how is it like to participant in the current state of the crypto-economy without putting real money into buying cryptocurrencies.  </p>
 
 <h2>Components</h2>
 
