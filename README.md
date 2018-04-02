@@ -1,11 +1,9 @@
-
 <h1 align="center">Cryptonopoly</h1>
 <h4 align="center">Multiplayer Cryptocurrency Game<h4>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/jpg/banner.jpg" width="70%" >
 </p>
-
 
 <h2>Abstract</h2>
 
@@ -34,7 +32,7 @@
 </p>
 <br><br>
 
-Fiat currency, Dollar for short, is the main unit of value in Cryptonopoly. Dollars are needed to purchase cryptocurrencies, miners, and paying for some bills in the game. The total asset of a player will be valued in dollars.  
+Fiat currency, Dollar for short, is the main unit of value in Cryptonopoly. Dollars are needed to purchase cryptocurrencies, miners, and paying for some bills in the game. The total asset of a player will be valued in dollars.
 
 <br>
 Each Player gets 5000 dollars to start and here is the break down detail:
@@ -97,7 +95,7 @@ dApp cards are the property cards in Cryptonopoly, similar to the housing proper
 <br><br>
  Please visit <a href="https://blockgeeks.com/guides/dapps/">here</a> for more information on dApp in the real world.
 
- <br><br>
+<br><br>
 
 <h3>Miner</h3>
 <p align="center">
@@ -139,10 +137,25 @@ Question cards are blockchain Trivia questions that players will have to draw an
 
 <br><br>
 The file below contains the full list of questions and answers
-
+<br>
 <a href="https://github.com/jimmyadg/Cryptonopoly/blob/master/questions/blockchain_trivia_questions.txt">Blockchain Trivia Questions</a>
 
 <a href="https://github.com/jimmyadg/Cryptonopoly/blob/master/questions/answer_key.txt">Answer Key</a>
+
+<br><br>
+
+<h3>Info Card</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/info.png" width="50%" >
+</p>
+<br><br>
+
+Players will have to draw an info card as the first move after each dice throw. Each info card contains a knowledge about blockchain that is also a blockchain trivia question in the question deck. Players can eventually learn all the answers to the blockchain trivia questions form the info card deck.
+
+<br><br>
+The file below contains the full list of questions and answers
+<br>
+<a href="https://github.com/jimmyadg/Cryptonopoly/blob/master/questions/info.txt">Info List</a>
 
 <br><br>
 
@@ -152,7 +165,6 @@ The file below contains the full list of questions and answers
 </p>
 <br><br>
 User dashboard is a player dashboard that lets players manage their cryptocurrencies. Each Player will get an user dashboard and each user dashboard contains three sections, Exchange, Personal Wallet, and Lock. Exchange will store cryptocurrencies that the player purchases with dollar, each round the player can move cryptocurrencies from Exchange into Personal wallet or vice versa. Both Exchange and Personal Wallet can be hacked or frozen, when that event happens the cryptocurrencies in the section will be moved to Lock, which the player won't be able to use the cryptocurrencies in Lock before unlocking them. Every round's token rewards from mining machine go straight to Personal Wallet, players can decide to accept Ethereum payment for passing dApps and other payments to either Personal Wallet or Exchange.
-
 
 <h2>Printed Prototype</h2>
 <h3 align="center">Board Setup</h3>
@@ -198,12 +210,10 @@ User dashboard is a player dashboard that lets players manage their cryptocurren
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/jpg/question.jpg" width="70%" >
 </p>
 
-
-
 <h2>Todo List</h2>
 
-- [x] Finish printing each components
-- [ ] Make player tokens / figures
-- [ ] Make a instruction guide / booklet
-- [ ] Design a box to store all items of the board game
-- [ ] Iterate on graphics
+* [x] Finish printing each components
+* [ ] Make player tokens / figures
+* [ ] Make a instruction guide / booklet
+* [ ] Design a box to store all items of the board game
+* [ ] Iterate on graphics
