@@ -1,0 +1,83 @@
+1. P2P stands for Peer to Peer
+
+2. A node is a computer on a blockchain Network
+
+3. Satoshi Nakamoto created Bitcoin
+
+4. You store your cryptocurrency in a Wallet
+
+5. Average Litecoin transaction time is around 1.5 minutes
+
+6. A miner is a computer that validates and process blockchain transactions
+
+7. Dash offers the PrivateSend function
+
+8. You buy cryptocurrency from a private transaction, an exchange, or a bitcoin ATM.
+
+9. Buying two pizzas was the first known purchase with bitcoin.
+
+10. A blockchain is a distributed ledger on a peer to peer network.
+
+11. Bitcoin's creator publish a whitepaper introducing the digital currency in 2008.
+
+12. The maximum number of bitcoins that can be created is 21 millions.
+
+13. The BitLicense regulation for cryptocurrency companies was introduced in New York
+
+14. Mt Gox was hacked and is a now-defunct bitcoin exchange.
+
+15. The process of creating new bitcoins is popularly known as mining.
+
+16. Silk Road was a site run by Ross Ulbricht was closed by the FBI for letting people buy drugs with bitcoin.
+
+17. Overstock.com started accepting payments in bitcoin in January 2014.
+
+18. Blockchain is not the same as Bitcoin.
+
+19. Multiple people simultaneously can access a record that is on a blockchain.
+
+20. Once records are submitted on a blockchain they cannot be altered.
+
+21. It is possible to program a blockchain to record transactions automatically.
+
+22. There are two types of blockchains, permission chain and public chain.
+
+23. A dApp is a decentralized application.
+
+24. Forking is the term for when a blockchain splits.
+
+25. The purpose of a nonce is to prevent double spending.
+
+26. A cold storage is a Private key not connected to the internet.
+
+27. Block rewards in cryptocurrencies incentivize the miners to give correct validation of transactions.
+
+28. A genesis block is the first block of a blockchain.
+
+29. A private key is a key NOT to be given to the public.
+
+30. The Ethereum Virtual Machines is powered by a unit called gas.
+
+31. Asymmetric encryption uses both Public and Private keys.
+
+32. Proof of Stake is a transaction and block verification consensus protocol.
+
+33. UTXO stands for Unspent Transaction Output.
+
+34. Merkle Trees was invented by Ralph Merkle.
+
+35. A hash function takes an input of any length and returns a fixed-length string of numbers and letters.
+
+36. IPFS stands for Interplanetary Filing System.
+
+37. A Dash Masternode is a node that provides additional supervisory network services.
+
+38. Immutability makes blockchain tamper-proof.
+
+39. The creator of Bitcoin introduced Bitcoin through a White Paper.
+
+40. Bitcoin uses UTXO, Ethereum uses Account Balance.
+
+41. Sidechains are any mechanism that allows tokens from one blockchain to be securely used within a completely separate blockchain.
+
+42. A LiteClient allows you to interact with the blockchain without downloading the whole blockchain.
