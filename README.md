@@ -210,10 +210,16 @@ User dashboard is a player dashboard that lets players manage their cryptocurren
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/jpg/question.jpg" width="70%" >
 </p>
 
+<h3 align="center">Video Demo</h3>
+<p align="center">
+[![Cryptonopoly](https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/jpg/vimeo.png)](https://player.vimeo.com/video/263101158?autoplay=1 "Cryptonopoly - Click to Watch!")
+
+</p>
+
 <h2>Todo List</h2>
 
 * [x] Finish printing each components
-* [ ] Make player tokens / figures
+* [x] Make player tokens / figures
 * [ ] Make a instruction guide / booklet
 * [ ] Design a box to store all items of the board game
 * [ ] Iterate on graphics
