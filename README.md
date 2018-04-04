@@ -212,7 +212,7 @@ User dashboard is a player dashboard that lets players manage their cryptocurren
 
 <h3 align="center">Video Demo</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/vimeo.png" width="90%" ><a href="https://player.vimeo.com/video/263101158?autoplay=1"></a></img>
+<a href="https://player.vimeo.com/video/263101158?autoplay=1"><img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/vimeo.png" width="90%" ></a>
 <!-- [![Cryptonopoly](https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/vimeo.png)](https://player.vimeo.com/video/263101158?autoplay=1 "Cryptonopoly - Click to Watch!") -->
 
 </p>
