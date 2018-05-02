@@ -102,7 +102,7 @@ dApp cards are the property cards in Cryptonopoly, similar to the housing proper
 <img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/miner.png" width="50%" >
 </p>
 <br><br>
-A Miner is a mining machine that mines Token in Cryptonopoly, which players can purchase at the beginning of the game or each time after passing Go as the last move. Each miner costs 200 Dollars and each of them has three lives, each time the player passes Go, the player has to pay 50 dollars electricity fee for each miner and the miners will all decrease by one life. If a miner runs out of life, it is useless, which player won't be able to receive any Token reward from it. Players can receive Token rewards based on how may miner lives each of his or her miners have.
+A Miner is a mining machine that mines Token in Cryptonopoly, which players can purchase at the beginning of the game or each time after passing Go as the last move. Each miner costs 200 Dollars and each of them has three lives, each time the player passes Go, the miners will all decrease by one life. If a miner runs out of life, it is useless, which player won't be able to receive any Token reward from it. Players can receive Token rewards based on how may miner lives each of his or her miners have.
 <br><br>
 Here is a simple form to calculate the Token rewards based on miner lives:
 <br><br>
@@ -213,7 +213,6 @@ User dashboard is a player dashboard that lets players manage their cryptocurren
 <h3 align="center">Video Demo</h3>
 <p align="center">
 <a href="https://player.vimeo.com/video/263101158?autoplay=1"><img src="https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/vimeo.png" width="90%" ></a>
-<!-- [![Cryptonopoly](https://raw.githubusercontent.com/jimmyadg/Cryptonopoly/master/photos/digital/vimeo.png)](https://player.vimeo.com/video/263101158?autoplay=1 "Cryptonopoly - Click to Watch!") -->
 
 </p>
 
